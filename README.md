@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio.
 
-Autor: Hector Hugo Olvera Barrozo
-Fecha: 5 de Febrero de 2022
+Autor: Hector Hugo Olvera Barrozo.
+Fecha: 5 de Febrero de 2022.
